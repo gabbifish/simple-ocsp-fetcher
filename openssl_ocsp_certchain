@@ -1,0 +1,117 @@
+CONNECTED(00000003)
+depth=2 OU = GlobalSign Root CA - R3, O = GlobalSign, CN = GlobalSign
+verify return:1
+depth=1 C = BE, O = GlobalSign nv-sa, CN = GlobalSign Organization Validation CA - SHA256 - G2
+verify return:1
+depth=0 C = US, ST = California, L = San Francisco, O = "Wikimedia Foundation, Inc.", CN = *.wikipedia.org
+verify return:1
+---
+Certificate chain
+ 0 s:/C=US/ST=California/L=San Francisco/O=Wikimedia Foundation, Inc./CN=*.wikipedia.org
+   i:/C=BE/O=GlobalSign nv-sa/CN=GlobalSign Organization Validation CA - SHA256 - G2
+-----BEGIN CERTIFICATE-----
+MIIIMTCCBxmgAwIBAgIMFkDF1F0uxNlMfXxqMA0GCSqGSIb3DQEBCwUAMGYxCzAJ
+BgNVBAYTAkJFMRkwFwYDVQQKExBHbG9iYWxTaWduIG52LXNhMTwwOgYDVQQDEzNH
+bG9iYWxTaWduIE9yZ2FuaXphdGlvbiBWYWxpZGF0aW9uIENBIC0gU0hBMjU2IC0g
+RzIwHhcNMTgxMTA4MjEyMTA0WhcNMTkxMTIyMDc1OTU5WjB5MQswCQYDVQQGEwJV
+UzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNU2FuIEZyYW5jaXNjbzEj
+MCEGA1UEChMaV2lraW1lZGlhIEZvdW5kYXRpb24sIEluYy4xGDAWBgNVBAMMDyou
+d2lraXBlZGlhLm9yZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABGd1rS7GauMx
+J15BmViShjVMjwQJNjjw+OUhnIaqE5QF/q6c/LIvVh4N3473a7J52JcfmlfCrXvD
+thHzaZNEneKjggWVMIIFkTAOBgNVHQ8BAf8EBAMCA4gwgaAGCCsGAQUFBwEBBIGT
+MIGQME0GCCsGAQUFBzAChkFodHRwOi8vc2VjdXJlLmdsb2JhbHNpZ24uY29tL2Nh
+Y2VydC9nc29yZ2FuaXphdGlvbnZhbHNoYTJnMnIxLmNydDA/BggrBgEFBQcwAYYz
+aHR0cDovL29jc3AyLmdsb2JhbHNpZ24uY29tL2dzb3JnYW5pemF0aW9udmFsc2hh
+MmcyMFYGA1UdIARPME0wQQYJKwYBBAGgMgEUMDQwMgYIKwYBBQUHAgEWJmh0dHBz
+Oi8vd3d3Lmdsb2JhbHNpZ24uY29tL3JlcG9zaXRvcnkvMAgGBmeBDAECAjAJBgNV
+HRMEAjAAMEkGA1UdHwRCMEAwPqA8oDqGOGh0dHA6Ly9jcmwuZ2xvYmFsc2lnbi5j
+b20vZ3MvZ3Nvcmdhbml6YXRpb252YWxzaGEyZzIuY3JsMIICxQYDVR0RBIICvDCC
+AriCDyoud2lraXBlZGlhLm9yZ4INd2lraW1lZGlhLm9yZ4INbWVkaWF3aWtpLm9y
+Z4INd2lraWJvb2tzLm9yZ4IMd2lraWRhdGEub3Jnggx3aWtpbmV3cy5vcmeCDXdp
+a2lxdW90ZS5vcmeCDndpa2lzb3VyY2Uub3Jngg93aWtpdmVyc2l0eS5vcmeCDndp
+a2l2b3lhZ2Uub3Jngg53aWt0aW9uYXJ5Lm9yZ4IXd2lraW1lZGlhZm91bmRhdGlv
+bi5vcmeCBncud2lraYISd21mdXNlcmNvbnRlbnQub3JnghEqLm0ud2lraXBlZGlh
+Lm9yZ4IPKi53aWtpbWVkaWEub3JnghEqLm0ud2lraW1lZGlhLm9yZ4IWKi5wbGFu
+ZXQud2lraW1lZGlhLm9yZ4IPKi5tZWRpYXdpa2kub3JnghEqLm0ubWVkaWF3aWtp
+Lm9yZ4IPKi53aWtpYm9va3Mub3JnghEqLm0ud2lraWJvb2tzLm9yZ4IOKi53aWtp
+ZGF0YS5vcmeCECoubS53aWtpZGF0YS5vcmeCDioud2lraW5ld3Mub3JnghAqLm0u
+d2lraW5ld3Mub3Jngg8qLndpa2lxdW90ZS5vcmeCESoubS53aWtpcXVvdGUub3Jn
+ghAqLndpa2lzb3VyY2Uub3JnghIqLm0ud2lraXNvdXJjZS5vcmeCESoud2lraXZl
+cnNpdHkub3JnghMqLm0ud2lraXZlcnNpdHkub3JnghAqLndpa2l2b3lhZ2Uub3Jn
+ghIqLm0ud2lraXZveWFnZS5vcmeCECoud2lrdGlvbmFyeS5vcmeCEioubS53aWt0
+aW9uYXJ5Lm9yZ4IZKi53aWtpbWVkaWFmb3VuZGF0aW9uLm9yZ4IUKi53bWZ1c2Vy
+Y29udGVudC5vcmeCDXdpa2lwZWRpYS5vcmcwHQYDVR0lBBYwFAYIKwYBBQUHAwEG
+CCsGAQUFBwMCMB0GA1UdDgQWBBSt4NNfC33t2i98DfZjjYpZGMJsijAfBgNVHSME
+GDAWgBSW3mHxvRwWKVMcwMx9O4MAQOYafDCCAQQGCisGAQQB1nkCBAIEgfUEgfIA
+8AB2AKS5CZC0GFgUh7sTosxncAo8NZgE+RvfuON3zQ7IDdwQAAABZvUzN/YAAAQD
+AEcwRQIgBATdvSzbd5NwGdtkmJ5SEvEPn6A8hgAsk6GSP6hzWcgCIQDKfHQNtObs
+/hHPfLgXsVkcnHIbjlNwmWeiukGtGHZFMgB2AG9Tdqwx8DEZ2JkApFEV/3cVHBHZ
+AsEAKQaNsgiaN9kTAAABZvUzN8cAAAQDAEcwRQIgYalEnXtd/fPhjq9SXPoSPRha
+MmeDs0IMN5o5Y6QTKfUCIQClR1uj+B56K4tGh/mws4qugG1qSD9zfvmx8roKik3H
+HDANBgkqhkiG9w0BAQsFAAOCAQEAUEJyg/AZo+owG5J/LIk8EIDnyOcanmfgvdjM
+g8KnpBvh8l3Wb4HmOudluJhIeIbCUMwzEzSGqYQQ78n4wtjLaLwaDgL4WzHOVec2
+k+rbfmPT6MUCtdlz1PK5/WY9JQyQq6vy+tm3a6Wijy6M8U/TdrJubK5X03SFfRb0
+pDuFdr2fnkctLRnyCb1w0XHwGXjEcGm1LY42YKwdvbj3WIqumeSEuG4MZtquW6NU
+RKELSil03G/hRHRAHHGx3zXes/jJcpH2GPX9eY9B+R1oHmCE2QF5Y/Bh+uNA2+2I
+uj/6UJAOw/Z/8+qZcnLWWnK2Dwzc34C/AUD+Wb71oUcr60+pPg==
+-----END CERTIFICATE-----
+ 1 s:/C=BE/O=GlobalSign nv-sa/CN=GlobalSign Organization Validation CA - SHA256 - G2
+   i:/OU=GlobalSign Root CA - R3/O=GlobalSign/CN=GlobalSign
+-----BEGIN CERTIFICATE-----
+MIIEYjCCA0qgAwIBAgILBAAAAAABMYnGRMkwDQYJKoZIhvcNAQELBQAwTDEgMB4G
+A1UECxMXR2xvYmFsU2lnbiBSb290IENBIC0gUjMxEzARBgNVBAoTCkdsb2JhbFNp
+Z24xEzARBgNVBAMTCkdsb2JhbFNpZ24wHhcNMTEwODAyMTAwMDAwWhcNMjIwODAy
+MTAwMDAwWjBmMQswCQYDVQQGEwJCRTEZMBcGA1UEChMQR2xvYmFsU2lnbiBudi1z
+YTE8MDoGA1UEAxMzR2xvYmFsU2lnbiBPcmdhbml6YXRpb24gVmFsaWRhdGlvbiBD
+QSAtIFNIQTI1NiAtIEcyMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA
+xw5sPyOTf8xwpZ0gww5TP37ATsKYScpH1SPvAzSFdMijAi5GXAt9yYidT4vw+Jxs
+jFU127/ys+r741bnSkbZEyLKNtWbwajjlkOT8gy85vnm6JnIY0h4f1c2aRoZHVrR
+1H3CnNR/4YASrnrqiOpX2MoKCjoSSaJiGXoNJPc367RzknsFI5sStc7rKd+kFAK5
+AaXUppxDZIje+H7+4/Ue5f7co6jkZjHZTCXpGLmJWQmu6Z0cbTcPSh41ICjir9Qh
+iwHERa1uK2OrkmthCk0g7XO6fM7+FrXbn4Dw1ots2Qh5Sk94ZdqSvL41+bPE+SeA
+Tv+WUuYCIOEHc+ldK72y8QIDAQABo4IBKTCCASUwDgYDVR0PAQH/BAQDAgEGMBIG
+A1UdEwEB/wQIMAYBAf8CAQAwHQYDVR0OBBYEFJbeYfG9HBYpUxzAzH07gwBA5hp8
+MEcGA1UdIARAMD4wPAYEVR0gADA0MDIGCCsGAQUFBwIBFiZodHRwczovL3d3dy5n
+bG9iYWxzaWduLmNvbS9yZXBvc2l0b3J5LzA2BgNVHR8ELzAtMCugKaAnhiVodHRw
+Oi8vY3JsLmdsb2JhbHNpZ24ubmV0L3Jvb3QtcjMuY3JsMD4GCCsGAQUFBwEBBDIw
+MDAuBggrBgEFBQcwAYYiaHR0cDovL29jc3AyLmdsb2JhbHNpZ24uY29tL3Jvb3Ry
+MzAfBgNVHSMEGDAWgBSP8Et/qC5FJK5NUPpjmove4t0bvDANBgkqhkiG9w0BAQsF
+AAOCAQEAugYpwLQZjCERwJQRnrs91NVDQPafuyULI2i1Gvf6VGTMKxP5IfBEreHo
+FVjb7v3bok3MGI8Nmm3DawGhMfCNvABAzDlfh2FRbfSV6uoVNT5AhcBi1aE0/niq
+qLJaOfM3Qfuc6D5xSlvr+GlYoeDGk3fpumeS62VYkHBzQn2v9CMmeReq+qS7meVE
+b2WB58rrVcj0ticRIXSUvGu3dGIpxM2uR/LmQlt4hgVhy5CqeYnfBH6xJnBLjUAf
+hHvA+wfmyLdOkfQ1A+3o60EQF0m0YsinLPLhTI8DLPMWN11n8aQ5eUmjwF3MVfkh
+gA/7zuIpalhQ6abX6xwyNrVip8H65g==
+-----END CERTIFICATE-----
+---
+Server certificate
+subject=/C=US/ST=California/L=San Francisco/O=Wikimedia Foundation, Inc./CN=*.wikipedia.org
+issuer=/C=BE/O=GlobalSign nv-sa/CN=GlobalSign Organization Validation CA - SHA256 - G2
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3552 bytes and written 433 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-ECDSA-AES256-GCM-SHA384
+Server public key is 256 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-ECDSA-AES256-GCM-SHA384
+    Session-ID: D09EF120EE11EE806B16766A1C79DEFF0DDDE20AFEADC8AABD8673EEC1C2C8D1
+    Session-ID-ctx: 
+    Master-Key: 12E10DCDEA633B87DEB61D0517374ECD5A0218438C4092F8572555DBCBD9F78B884B7354C83B2C0CDB2D3A71A43947E2
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1554490295
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---
+DONE

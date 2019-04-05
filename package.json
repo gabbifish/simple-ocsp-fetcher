@@ -1,0 +1,17 @@
+{
+  "name": "ocsp-fetcher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ocspFetch.js",
+  "dependencies": {
+    "asn1.js-rfc2560": "^5.0.0",
+    "node-fetch": "^2.3.0",
+    "node-webcrypto-ossl": "^1.0.42"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
